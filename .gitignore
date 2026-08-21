@@ -1,0 +1,13 @@
+# Chặn các chìa khóa bí mật & token xác thực Gmail API
+credentials.json
+token.json
+client_secret*.json
+
+# Chặn bộ nhớ tạm Colab & Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Chặn file nén dữ liệu tạm
+smsspamcollection.zip
+SMSSpamCollection

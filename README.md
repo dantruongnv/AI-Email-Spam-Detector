@@ -1,5 +1,6 @@
 # AI-Email-Spam-Detector
 Dự án AI phân loại thư rác tự động kết nối Gmail API
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dantruongnv/AI-Email-Spam-Detector/blob/main/AI_Spam_Detector.ipynb)
 
 Dự án môn học: **Trí tuệ nhân tạo**
 

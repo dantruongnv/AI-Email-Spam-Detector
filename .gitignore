@@ -211,6 +211,18 @@ tempCodeRunnerFile.py
 
 # Marimo
 marimo/_static/
+
+# Chặn chìa khóa bí mật & token xác thực Gmail API
+credentials.json
+token.json
+client_secret*.json
+
+# Chặn dữ liệu tạm Colab/Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+smsspamcollection.zip
+SMSSpamCollection
 marimo/_lsp/
 __marimo__/
 

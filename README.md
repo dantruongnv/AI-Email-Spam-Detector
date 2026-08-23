@@ -4,19 +4,19 @@ BÁO CÁO MÔN HỌC: TRÍ TUỆ NHÂN TẠO (AI)
 ---
 
  1. Giới thiệu tổng quan
-Dự án áp dụng thuật toán Học máy **Naive Bayes** kết hợp phương pháp biểu diễn văn bản **TF-IDF** để phân loại email thành **HAM** (thư thường) hoặc **SPAM** (thư rác). Hệ thống tích hợp trực tiếp với **Gmail API** để tự động kiểm tra hộp thư đến và di chuyển thư rác vào thư mục Spam theo thời gian thực.
+Dự án áp dụng thuật toán Học máy **Naive Bayes** kết hợp phương pháp biểu diễn văn bản **TF-IDF** để phân loại email thành **HAM** (thư thường) hoặc **SPAM** (thư rác). Hệ thống tích hợp trực tiếp với **Gmail API** để tự kiểm tra hộp thư đến và phân loại
 
 ---
 
 2. HƯỚNG DẪN SỬ DỤNG
  
-    B1.chuẩn bị api credentials từ API Gmail
+    B1.chuẩn bị api credentials.json từ OAuth 2.0 Client IDs (Đã enable GmailAPI)
 
     B2.Chuyển sang dự án google collab(Link ở AI_Email_Spam_Detector.ipynb )
   
-    B3. Thả file credentials.json vào file
+    B3. Thả file credentials.json vào dự án(Thư mục files)
 
-    B4.Chạy từng khung code
+    B4.Chạy từng khung code và làm theo chỉ dẫn
 
 4. Yêu cầu môi trường & Thư viện
 - Môi trường: Google Colab / Python 3.x

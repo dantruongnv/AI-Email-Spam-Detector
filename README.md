@@ -8,7 +8,8 @@ Dự án áp dụng thuật toán Học máy **Naive Bayes** kết hợp phươn
 
 ---
 
-2. HƯỚNG DẪN SỬ DỤNG 
+2. HƯỚNG DẪN SỬ DỤNG
+ 
     B1.chuẩn bị api credentials từ API Gmail
 
     B2.Chuyển sang dự án google collab(Link ở AI_Email_Spam_Detector.ipynb )
@@ -17,7 +18,7 @@ Dự án áp dụng thuật toán Học máy **Naive Bayes** kết hợp phươn
 
     B4.Chạy từng khung code
 
-3. Yêu cầu môi trường & Thư viện
+4. Yêu cầu môi trường & Thư viện
 - Môi trường: Google Colab / Python 3.x
 - Thư viện chính: `pandas`, `scikit-learn`, `google-api-python-client`, `google-auth-oauthlib`
 
